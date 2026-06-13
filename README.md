@@ -19,7 +19,7 @@ I'm **Ebtehal Atef**, an aspiring **Backend Developer** passionate about buildin
 
 ### 📫 Connect With Me
 
-*LinkedIn**: [linkedin.com/in/ebtehal-atef-csp](https://www.linkedin.com/in/ebtehal-atef-csp)
+- **LinkedIn**: [Ebtehal Atef](https://www.linkedin.com/in/ebtehal-atef-csp)
 * Email: [ebtehal.atef.2003@gmail.com](mailto:ebtehal.atef.2003@gmail.com)
 
 ### 🌱 Open To
