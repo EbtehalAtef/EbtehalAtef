@@ -19,9 +19,10 @@ I'm **Ebtehal Atef**, an aspiring **Backend Developer** passionate about buildin
 
 ### 📫 Connect With Me
 
-*LinkedIn*: [Ebtehal Atef](https://www.linkedin.com/in/ebtehal-atef-cs)
-*Email*: [ebtehal.atef.2003@gmail.com](mailto:ebtehal.atef.2003@gmail.com)
-*Location*: Cairo, Egypt
+**LinkedIn**: [Ebtehal Atef](https://www.linkedin.com/in/ebtehal-atef-cs)
+**Email**: [ebtehal.atef.2003@gmail.com](mailto:ebtehal.atef.2003@gmail.com)
+**Location**: Cairo, Egypt
+
 ### 🌱 Open To
 
 * Internship opportunities
